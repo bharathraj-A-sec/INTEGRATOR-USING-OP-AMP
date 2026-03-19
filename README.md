@@ -1,7 +1,7 @@
 # INTEGRATOR-USING-OP-AMP
 
 ## AIM:
-To design and test the performance of integrator and differentiator circuits using Op-amp.
+To design and test the performance of integrator and differentiator circuits using Op-amp
 
 ## APPARATUS REQUIRED:
 <img width="700" height="201" alt="image" src="https://github.com/user-attachments/assets/7cbeb741-349e-43f5-a78f-312dd3f338b4" />
